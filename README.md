@@ -7,7 +7,7 @@ This project predicts whether a patient has diabetes based on medical features u
 - **SHAP** (for explainability of model predictions)
 
 ---
-![Predictions Demo](demo.gif)
+![Predictions Demo](<img src="demo.gif" alt="Predictions Demo" style="width:50%;" />)
 
 ## 📊 Dataset
 The dataset contains the following medical features:
