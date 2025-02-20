@@ -61,24 +61,6 @@ This will open an interactive web app where users can enter feature values and g
 
 ---
 
-## 📁 Repository Structure
-```
-diabetes-prediction/
-├── README.md
-├── requirements.txt
-├── data/
-│   └── diabetes.csv
-├── notebooks/
-│   └── Diabetes_Prediction_Notebook.ipynb
-├── app/
-│   ├── app.py
-│   ├── streamlit_app.py
-│   ├── model.pkl
-│   └── scaler.pkl
-```
-
----
-
 ## 📊 Model Training & Evaluation
 - **8 different machine learning models** were trained.
 - A **neural network with PyTorch** was also tested.
